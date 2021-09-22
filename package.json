@@ -1,0 +1,14 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "description": "An apollo server using neo4j",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@neo4j/graphql": "^2.2.0",
+    "apollo-server": "^3.3.0",
+    "dotenv": "^10.0.0",
+    "graphql": "^15.6.0",
+    "neo4j-driver": "^4.3.3"
+  }
+}
