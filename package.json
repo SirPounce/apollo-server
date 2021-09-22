@@ -1,7 +1,8 @@
 {
   "name": "apollo-server",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "An apollo server using neo4j",
+  "type": "module",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {

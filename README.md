@@ -1,7 +1,8 @@
 # Apollo-server with neo4j connection
 A lightweight setup to quickly get started with apollo server using neo4j backend.
 
-We sacrifice some modern language to avoid babel/webpack setup
+# Apollo server with neo4j connection
+This is the GraphQL connection to neo4j
 
 ## Setup
 Simply `yarn`
