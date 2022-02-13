@@ -5,6 +5,9 @@
   "type": "module",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "@neo4j/graphql": "^2.5.8",
     "apollo-server": "^3.6.3",
